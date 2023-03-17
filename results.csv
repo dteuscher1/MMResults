@@ -1,3 +1,33 @@
-﻿game_number,round,points,winner
-1,1,10,Gonzaga
-2,1,10,Memphis
+,High,Low,Game_Num,Winner,Round,points
+1,Alabama,Texas A&M-CC,1,Alabama,Round 1,10
+2,Maryland,West Virginia,2,Maryland,Round 1,10
+3,San Diego St,Charleston,3,San Diego St,Round 1,10
+4,Virginia,Furman,4,Furman,Round 1,10
+5,Creighton,NC State,5,NA,Round 1,10
+6,Baylor,UCSB,6,NA,Round 1,10
+7,Missouri,Utah State,7,Missouri,Round 1,10
+8,Arizona,Princeton,8,Princeton,Round 1,10
+9,Purdue,Fairleigh Dickinson,9,NA,Round 1,10
+10,Memphis,FAU,10,NA,Round 1,10
+11,Duke,Oral Roberts,11,NA,Round 1,10
+12,Tennessee,Louisiana,12,NA,Round 1,10
+13,Kentucky,Providence,13,NA,Round 1,10
+14,Kansas St,Montana St,14,NA,Round 1,10
+15,Michigan St,USC,15,NA,Round 1,10
+16,Marquette,Vermont,16,NA,Round 1,10
+17,Houston,N Kentucky,17,NA,Round 1,10
+18,Iowa,Auburn,18,NA,Round 1,10
+19,Miami,Drake,19,NA,Round 1,10
+20,Indiana,Kent State,20,NA,Round 1,10
+21,Iowa State,Pittsburgh,21,NA,Round 1,10
+22,Xavier,Kennesaw St,22,NA,Round 1,10
+23,Texas A&M,Penn State,23,NA,Round 1,10
+24,Texas,Colgate,24,NA,Round 1,10
+25,Kansas,Howard,25,Kansas,Round 1,10
+26,Arkansas,Illinois,26,Arkansas,Round 1,10
+27,Saint Mary's,VCU,27,NA,Round 1,10
+28,UConn,Iona,28,NA,Round 1,10
+29,TCU,Arizona State,29,NA,Round 1,10
+30,Gonzaga,Grand Canyon,30,NA,Round 1,10
+31,Northwestern,Boise St,31,NA,Round 1,10
+32,UCLA,UNC Asheville,32,NA,Round 1,10
